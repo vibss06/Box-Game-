@@ -48,6 +48,9 @@ button{
     border: 2px solid black;
 }
 
+.again{
+    width: 100px;
+}
 .top{
   width: 25%; 
     color: aliceblue;
